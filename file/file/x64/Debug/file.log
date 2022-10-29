@@ -1,0 +1,4 @@
+﻿  test3.c
+C:\Users\xodnr\Desktop\뻐꾸기\file\file\test3.c(7,10): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\xodnr\Desktop\뻐꾸기\file\file\test3.c(7,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  file.vcxproj -> C:\Users\xodnr\Desktop\뻐꾸기\file\x64\Debug\file.exe
