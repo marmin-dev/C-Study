@@ -1,0 +1,21 @@
+﻿  lap4.c
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(16,10): warning C4778: 'printf' : 서식 문자열 '%)'이(가) 종결되지 않았습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(17,11): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(17,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(21,61): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(21,67): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(21,11): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(24,58): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(24,64): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(27,58): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(27,64): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(30,55): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(30,61): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(33,58): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(33,64): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(40,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(40,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(40,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(40,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\xodnr\Desktop\뻐꾸기\function\function\lap4.c(44,4): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  function.vcxproj -> C:\Users\xodnr\Desktop\뻐꾸기\function\x64\Debug\function.exe
