@@ -1,0 +1,7 @@
+﻿  testing3.c
+C:\Users\xodnr\Desktop\뻐꾸기\twothou\twothou\testing3.c(7,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\xodnr\Desktop\뻐꾸기\twothou\twothou\testing3.c(7,10): message : 이 인수는 변환 지정자에서 사용됩니다.
+C:\Users\xodnr\Desktop\뻐꾸기\twothou\twothou\testing3.c(7,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\xodnr\Desktop\뻐꾸기\twothou\twothou\testing3.c(7,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\xodnr\Desktop\뻐꾸기\twothou\twothou\testing3.c(8,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  twothou.vcxproj -> C:\Users\xodnr\Desktop\뻐꾸기\twothou\x64\Debug\twothou.exe
